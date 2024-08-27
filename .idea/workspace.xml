@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dac8b07-ad4e-4f48-9994-5582a397ec43" name="Changes" comment="First Comment">
-      <change afterPath="$PROJECT_DIR$/.idea/CZ23_Python_Backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hollymovies/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hollymovies/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hollymovies/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hollymovies/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hollymovies/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="2dac8b07-ad4e-4f48-9994-5582a397ec43" name="Changes" comment="First Comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +75,15 @@
       <option name="presentableId" value="Default" />
       <updated>1724739611923</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Comment">
+      <option name="closed" value="true" />
+      <created>1724747182310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724747182310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
